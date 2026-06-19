@@ -5,4 +5,3 @@ langchain-groq==0.2.1
 groq
 duckduckgo-search
 requests
-protobuf==3.20.3
