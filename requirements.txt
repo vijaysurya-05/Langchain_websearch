@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+groq
+duckduckgo-search
+requests
+protobuf==3.20.3
