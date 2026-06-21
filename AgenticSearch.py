@@ -74,4 +74,4 @@ question = st.text_input("Ask a question to My Agentic AI")
 if question:
     with st.spinner("Agentic AI searching..."):
         result = agent_executor.invoke({"input": question})
-        st.write(result["output"])
+        st.write(result["output"]) 
